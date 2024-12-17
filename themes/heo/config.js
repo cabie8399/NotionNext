@@ -9,7 +9,7 @@ const CONFIG = {
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
     { title: '歡迎來到科技軟體週週報', url: 'https://notion-next-eosin-rho.vercel.app/?theme=heo' },
-    { title: '访问文档中心获取更多帮助', url: 'https://notion-next-eosin-rho.vercel.app/?theme=heo' }
+    { title: '陪你週週成長的好夥伴', url: 'https://notion-next-eosin-rho.vercel.app/?theme=heo' }
   ],
 
   // 英雄区左右侧组件颠倒位置

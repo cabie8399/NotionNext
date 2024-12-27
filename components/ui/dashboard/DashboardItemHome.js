@@ -45,7 +45,7 @@ export default function DashboardItemHome() {
       {/* 数据卡片模块 */}
       <div className='grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 mb-8'>
         <div className='bg-white shadow-lg p-6 rounded-lg hover:scale-105 transition-all transform duration-300'>
-          <h3 className='text-xl text-gray-800 dark:text-white'>今日访问量</h3>
+          <h3 className='text-xl text-gray-800 dark:text-white'>今日訪問量</h3>
           <p className='text-3xl text-green-600'>1,245</p>
         </div>
         <div className='bg-white shadow-lg p-6 rounded-lg hover:scale-105 transition-all transform duration-300'>

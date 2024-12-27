@@ -9,9 +9,9 @@ export default function DashboardItemOrder() {
   const totalPages = 5
 
   const columns = [
-    { key: 'name', label: '商品名称' },
+    { key: 'name', label: '商品名稱' },
     { key: 'color', label: '颜色' },
-    { key: 'category', label: '分类' },
+    { key: 'category', label: '分類' },
     {
       key: 'accessories',
       label: '配件',
